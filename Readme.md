@@ -15,7 +15,9 @@ https://www.figma.com/file/vRKj17ineqcuJdiSEThh7D/Maquette?type=design&node-id=0
 
 https://www.figma.com/proto/vRKj17ineqcuJdiSEThh7D/Maquette?type=design&node-id=233-12633&t=R6zdQWG4RPJXprBo-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=233%3A12633&show-proto-sidebar=1&mode=design
 
-Si vous voulez aller coté collaborateur écrivez collabaroateur au moment de lq connexion ou admin pour le coté admin.
+Si vous voulez aller coté collaborateur écrivez collabaroateur au moment de la connexion ou admin pour le coté admin.
+Pour la navigation dans le prototype, utilisé la bottom bar, le menu hamburger, et pour le retour en arriere faite un swipe vers la droite quand c'est possible.
+
 
 ### Lien vers le tableau Trello: 
 
